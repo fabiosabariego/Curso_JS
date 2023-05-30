@@ -1,0 +1,16 @@
+body{
+    font: normal 12pt Arial;
+}
+
+input#vel{
+    font: normal 16pt Arial;
+    width: 100px;
+    margin: 0.5%;
+}
+
+input#ver{
+    font: normal 12pt Arial;
+    font-weight: bold;
+    padding: 12px;
+    margin: 0.4%;
+}
